@@ -1,1 +1,1 @@
-![imagem](https://raw.githubusercontent.com/theobarg/logos-github/main/githublogo.gif?token=AVJDWAQB4PVYHS6PQ2K6LYLBFUMEK)
+![imagem](https://github.com/theobarg/logos-github/blob/main/githublogo.gif)
